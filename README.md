@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Bojan.
+---
+## Engineering Manager | Head of Software Engineering
+---
+- 🚀 I enjoy building next-level products. 
+- 🌱 I am helping startups, entrepreneurs, and companies to grow faster.
+- 🦾 Bringing business to the next level using the latest technologies.
+- 👷 I'm currently working at [Symphony][symphony]
+- 📬 Connect with me [LinkedIn][linkedin], [X][x]
 
-<!--
-**bgolubovic/bgolubovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[symphony]: https://symphony.is/
+[linkedin]: https://www.linkedin.com/in/golubovicbojan/
+[x]: https://twitter.com/bgolubovic
