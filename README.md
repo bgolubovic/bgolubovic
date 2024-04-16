@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Bojan.
-### Engineering Manager | Head of Software Engineering
+#### Engineering Manager | Head of Software Engineering
 - 🚀 I enjoy building next-level products. 
 - 🌱 I am helping startups, entrepreneurs, and companies to grow faster.
 - 🦾 Bringing business to the next level using the latest technologies.
