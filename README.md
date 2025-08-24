@@ -6,7 +6,7 @@
 
 ...and now
 
-- 🪖 I am leading software development projects.
+- 📽️ I am leading software development projects.
 - 🧑‍🤝‍🧑 With a focus on people management through leadership, career development, coaching, and mentoring.
 - 🚀 I enjoy building next-level products. 
 - 🌱 I am helping startups, entrepreneurs, and companies to grow faster.
