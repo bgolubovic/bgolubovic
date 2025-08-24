@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Bojan.
 
-#### Engineering Manager | Head of Software Engineering
+#### Principal Engineer | Engineering Manager | Head of Software Engineering
 
 - 📔 Rising from code monkey to principal engineer after 12 years into the frontend code, JavaScript and React, I accidentally tripped over and fell headfirst into management. Turns out, I am good at debugging software, people, and meetings!
 
